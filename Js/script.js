@@ -51,6 +51,7 @@ function setToStorage() {
   alert('Sign Up Successful');
   
   form.reset()
+  return;
  } 
 }
 
